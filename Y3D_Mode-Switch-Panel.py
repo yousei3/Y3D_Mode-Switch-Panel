@@ -192,7 +192,7 @@ class VIEW3D_OT_mode_switch_open(bpy.types.Operator):
 # Nパネル（EditMode+ のオン/オフ）
 # ============================================================
 class VIEW3D_PT_mode_switch_panel(bpy.types.Panel):
-    bl_label = "ModeTool"
+    bl_label = "Y3D Mode Switch Panel"
     bl_idname = "VIEW3D_PT_mode_switch_panel"
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
