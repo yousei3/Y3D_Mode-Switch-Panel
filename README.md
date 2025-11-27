@@ -5,10 +5,14 @@
 
 ### 📗 N Panel
   
-<img width="401" height="239" alt="image" src="https://github.com/user-attachments/assets/9775063f-e34f-477f-a8aa-034f73b23637" /> <br>
+<img width="408" height="357" alt="image" src="https://github.com/user-attachments/assets/464d06d7-c875-4cc1-9c73-9a535160acc0" /> <br>
 
-### 📘 Floationg Menu
+### 📘 Floationg Panel
 #### 📖 You can choose whether to display EditMode+ in the N-Panel checkbox.
-  
-<img width="518" height="308" alt="image" src="https://github.com/user-attachments/assets/d6fba211-0e9d-4bbb-a9f0-0923897a47d1" /> <br>
-<img width="346" height="285" alt="image" src="https://github.com/user-attachments/assets/34bedf78-9daf-4f6e-bf51-b9acb201a08c" />
+##### EditMode+ ON ✔️ <br>
+<img width="561" height="376" alt="image" src="https://github.com/user-attachments/assets/7ccb2f24-89dd-4a80-98f6-ef07827cb483" /> <br>
+
+##### EditMode+ OFF ⬜ <br>
+<img width="446" height="292" alt="image" src="https://github.com/user-attachments/assets/13e32547-0812-4f56-8d7f-c072ccd976a3" /> <br>
+
+
