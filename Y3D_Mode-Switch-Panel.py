@@ -115,7 +115,7 @@ class MTOOL_OT_select_mode_exec(bpy.types.Operator):
 # ============================================================
 class MTOOL_MT_mode_switch_menu(bpy.types.Menu):
     bl_idname = "MTOOL_MT_mode_switch_menu"
-    bl_label = "Mode Switch Menu"
+    bl_label = "Y3D Mode Switch Panel"
 
     def draw(self, context):
         layout = self.layout
@@ -205,7 +205,7 @@ class VIEW3D_PT_mode_switch_panel(bpy.types.Panel):
         layout.prop(prefs, "show_editmode_plus")
         layout.separator(factor=0.6)
 
-        layout.operator("view3d.mode_switch_open", text="Mode Switch Menu")
+        layout.operator("view3d.mode_switch_open", text="Y3D Mode Switch Panel", icon='MENU_PANEL')
 
 
 # ============================================================
